@@ -1,0 +1,75 @@
+.service_div{
+    height: 850px;
+    width: 100%;
+    background-color:white;
+    /* border: 2px solid red; */
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.77) 0, rgba(0, 0, 7, 0.37) 60%, rgba(0, 0, 0, 0.841) 100%),url("https://testyantraglobal.com/wp-content/uploads/2022/03/Consulting_banner.jpg")
+
+}
+
+.service_div img{
+    height: 200px;
+    width: 100%;
+    /* border: 2px solid red; */
+   
+    margin-top: 650px;
+    
+}
+.service_div2{
+   margin-left: 160px;
+    margin-top: -700px;
+    width: 630px;
+    color: white;
+}
+.service_div2 h1{
+    font-size: 60px;
+    font-weight: 900;
+    font-family: "Sora",Arial,Helvetica,sans-serif;
+
+}
+.service_div2 p{
+    font-size: 23px;
+    width: 650px;
+    font-weight: 500;
+    font-family: "Sora",Arial,Helvetica,sans-serif;
+
+}
+.service_container{
+    margin-top: 380px;
+    height: 500px;
+    width: 100%;
+    /* border: 2px solid red; */
+}
+
+.service_container div{
+    width: 75%;
+    /* border:  2px solid red; */
+   margin-left:200px;
+   
+}
+.service_container div h1{
+    font-size: 45px;
+    font-family: "Sora",Arial,Helvetica,sans-serif;
+   color:  #181818;
+    
+}
+.service_container div p{
+    margin-top: 7px;
+    width: 100%;
+    font-size: 18px;
+    font-weight: 100;
+    font-family: "Sora",Arial,Helvetica,sans-serif;
+
+}
+.service_container div~div{
+    margin-top: 80px;
+}
+.service_container div~div p~p{
+    margin-top: 20px;
+}
+.sdiv3{
+    height: 681px;
+    background-color: #80808012;
+    border: 2px solid #80808012;
+   
+}

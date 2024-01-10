@@ -1,0 +1,83 @@
+.inddiv{
+    height: 740px;
+    width: 100%;
+    background-color:white;
+    /* border: 2px solid red; */
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.77) 0, rgba(0, 0, 7, 0.37) 60%, rgba(0, 0, 0, 0.841) 100%),url(./indusrty_insurance.jpg);
+}
+.inddiv img{
+    height: 200px;
+    width: 100%;
+    /* border: 2px solid red; */
+    margin-top: 540px;   
+}
+.inddiv2{
+    margin-top: -600px;
+    margin-left: 200px;
+}
+.inddiv2 h1{
+    font-size: 60px;
+    font-weight: 900;
+    font-family: "Sora",Arial,Helvetica,sans-serif;
+    color: white;
+}
+
+.inddiv2 p{
+    font-size: 23px;
+    width: 650px;
+    font-weight: 500;
+    font-family: "Sora",Arial,Helvetica,sans-serif;
+    color: white;
+    width: 45%;
+
+}
+.inddiv3{
+    height: 700px;
+    width: 80%;
+    /* border: 2px solid red; */
+    margin-left: 150px;
+    margin-top: 470px;
+    display: flex;
+}
+.div3_img{
+    height: 700px;
+    width: 50%;
+    /* border: 2px solid red; */
+}
+.div3_img img{
+    height: 480px;
+    width: 80%;
+    border-radius: 10px 10px 10px 30px;
+    margin-left: 120px;
+   
+}
+.div3_p{
+    height: 700px;
+    width: 43%;
+    /* border: 2px solid red; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
+.div3_p p{
+   color: rgba(0, 0, 0, 0.804);
+    font-size: 17px;
+    font-family: "Sora",Arial,Helvetica,sans-serif;
+    line-height: 20px;
+}
+
+.inddiv4{
+    height: 100px;
+    width: 80%;
+    /* border: 2px solid red; */
+    margin-left: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: rgba(0, 0, 0, 0.804);
+    font-size: 17px;
+    font-family: "Sora",Arial,Helvetica,sans-serif;
+}

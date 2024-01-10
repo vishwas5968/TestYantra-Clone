@@ -1,0 +1,30 @@
+[
+    {
+        "photo":"https://testyantraglobal.com/wp-content/uploads/2023/05/website-1500X800.jpg",
+        "team":"Software Testing",
+        "date":"/ May 16,2023 /",
+        "comm":"0",
+        "heading":"One stop solution for Scriptless Automated Testing – FireFlink"
+    },
+    {
+        "photo":"https://testyantraglobal.com/wp-content/uploads/2023/04/test-automation-Fireflink-testyantra.jpg",
+        "team":"Consulting",
+        "date":"/ April 19, 2023 /",
+        "comm":"0",
+        "heading":"Test Automation Suite- Selenium , Oracle or FireFlink"
+    },
+    {
+        "photo":"https://testyantraglobal.com/wp-content/uploads/2023/02/Automate-Software-Testing.jpg",
+        "team":"Software Testing",
+        "date":"/ March 24, 2023 /",
+        "comm":"0",
+        "heading":"Automated software testing -101"
+    },
+    {
+        "photo":"https://testyantraglobal.com/wp-content/uploads/2023/03/website-1500X800.jpg",
+        "team":"Software Testing",
+        "date":"/ March 24, 2023 /",
+        "comm":"0",
+        "heading":"All about crowdsourced Testing- TestYantra"
+    }
+]

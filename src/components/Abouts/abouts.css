@@ -1,0 +1,59 @@
+.abouts{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 20px;
+}
+
+.each{
+    width: 90%;
+    margin-left: 150px;
+    font-family: Spartan, Arial, Helvetica, sans-serif;
+}
+
+.each img{
+    width: 90%;
+}
+
+.texter{
+    padding: 20px 0px;
+    font-size: 20px;
+}
+
+.orange{
+    color: #ed7501;
+    padding: 5px 2px;
+}
+
+.non_orange{
+    padding: 5px;
+    margin-top: 50px;
+}
+
+.arrow{
+    padding: 20px 0px;
+    width: 90%;
+    font-family: "Nunito Sans", Arial, Helvetica, sans-serif;
+    height: 150px;
+}
+
+.arrow_r{
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 50px;
+    color: gray;
+}
+
+/* .arrow_r span{
+    justify-content: center;
+} */
+
+.arrow_r:hover{
+    cursor: pointer;
+    color: #ed7501;
+    gap: 50px;
+}
